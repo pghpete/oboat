@@ -15,3 +15,6 @@ The goal of this project is to create an autonomous boat that can be deployed in
 
 
 ## 2022-04-22 Selecting and ordering parts:
+- Amazon
+- Bangood
+- Ebay
