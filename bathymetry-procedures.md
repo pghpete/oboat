@@ -1,8 +1,10 @@
+
 # OBOAT OBAL-base Unmanned Autonomous Bathymetry Boat
+## Bathymetry Procedures
 
 **Goal:**
 
-The goal of this project is to create an autonomous boat that can be deployed in bodies of water and measure the depth, guided by gps way-points and return to launch. Using the data collected us GIS software to produce a map of the river bed.  Document and share the entire process from building the vehicle to gathering the data and producing the resulting charts and maps.
+The goal of this project is to create an autonomous boat that can be deployed in bodies of water and measure the depth, guided by gps way-points and return to launch. Using the data col
 
 **Software:**
 - Ardurover
