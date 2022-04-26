@@ -18,3 +18,9 @@ The goal of this project is to create an autonomous boat that can be deployed in
 - Amazon
 - Bangood
 - Ebay
+
+## Bathymetry Procedures
+[https://pghpete.github.io/oboat/bathymetry-procedures.html](https://pghpete.github.io/oboat/bathymetry-procedures.html)
+
+## Boat Design Features
+[https://pghpete.github.io/oboat/design.html](https://pghpete.github.io/oboat/design.html)

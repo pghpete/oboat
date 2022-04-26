@@ -4,19 +4,17 @@
 
 **Goal:**
 
-The goal of this project is to create an autonomous boat that can be deployed in bodies of water and measure the depth, guided by gps way-points and return to launch. Using the data col
+Learn how to properly perform a bathymetry survey, create the necessary dataset, share and document the process.
 
-**Software:**
-- Ardurover
-- Raspberry Pi OS Lite
+**Basics:**
+- The proper pronunciation of "bathymetry" [https://dictionary.cambridge.org/us/pronunciation/english/bathymetry](https://dictionary.cambridge.org/us/pronunciation/english/bathymetry)
 
-**Hardware:**
-- OBAL - Open Board Architecture for Linux will act as the heart of the system. _Thank You Mohammad for a fantastic board and project_
-  [https://github.com/HefnySco/OBAL](https://github.com/HefnySco/OBAL)
-- Raspberry Pi Zero 2 W
+**Resources:**
+- WikiPedia: Bathymetry [https://en.wikipedia.org/wiki/Bathymetry](https://en.wikipedia.org/wiki/Bathymetry) 
+- OpenDEM [https://www.opendem.info/bathymetrysearcher.html](https://www.opendem.info/bathymetrysearcher.html)
 
+**Questions:**
 
-## 2022-04-22 Selecting and ordering parts:
-- Amazon
-- Bangood
-- Ebay
+- Datums?
+- River Level from NOAA measured from dam upstream pool?
+- Water temperature
