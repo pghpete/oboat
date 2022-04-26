@@ -27,10 +27,14 @@
 - Navigation Lights (red: port, green: starboard, white: stern, front=spot)
 - USB Panel Mount
 - HDMI Panel Mount
+- ARM/DISARM switch
 
 **Internal Electronics**
 - Raspberry Pi Zero W 2
 - OBAL board (barrometer, gyro, accelerometer, buzzer, LED FLASH, safety switch)
+- 2x Batteries
+- 2x ESCs
+- 1 power supply
 - FAN?
 - Relay/Pump? 
 

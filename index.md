@@ -24,3 +24,6 @@ The goal of this project is to create an autonomous boat that can be deployed in
 
 ## Boat Design Features
 [https://pghpete.github.io/oboat/design.html](https://pghpete.github.io/oboat/design.html)
+
+## Bathymetry Reference
+[https://pghpete.github.io/oboat/reference.html](https://pghpete.github.io/oboat/reference.html)
